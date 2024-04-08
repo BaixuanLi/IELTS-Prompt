@@ -1,6 +1,6 @@
 # 🚀 IELTS-Prompt: Making Your GPT an Excellent IELTS Tutor & Simulated Examiner
 
-🥳🥳🥳*** GPT may provide MORE assistance on your IELTS learning journey now!*** 🤩🤩🤩
+🥳🥳🥳 ***GPT may provide MORE assistance on your IELTS learning journey now!*** 🤩🤩🤩
 
 💡 **Small Tip:** It is recommended to use in conjunction with the **OpenAI MyGPTs** service.
 
