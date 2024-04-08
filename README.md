@@ -84,7 +84,7 @@ I need to provide improvement suggestions for users according to this.
 
 📙 **Description:** The IELTS Academic Speaking section consists of three parts in total, with the first and third parts being in a question-and-answer format, and the second part in a presentation format.
 
-As for IELTS Academic Speaking Tutor, now we temporarily recommend directly using https://chat.openai.com/g/g-LDICowG2o-ielts, and we will release our version soon
+As for IELTS Academic Speaking Tutor, now we temporarily recommend directly using https://chat.openai.com/g/g-LDICowG2o-ielts, and we will release our version as soon as possible.
 
 #### Role Prompt
 
